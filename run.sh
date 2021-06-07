@@ -1,1 +1,1 @@
-clang db.c -o db.out && ./db.out
+clang db.c -o db&& ./db test.db
