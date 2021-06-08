@@ -1,1 +1,1 @@
-clang db.c -o db&& ./db test.db
+clang -g db.c -o db&& ./db test.db
