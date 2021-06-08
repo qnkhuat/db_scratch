@@ -1,5 +1,6 @@
 ./db
 *.db
+.DS_Store
 
 # Prerequisites
 *.d
